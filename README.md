@@ -1,8 +1,6 @@
-## Private Project for OpenWRT/Immortal/LEDE
+## WRT Plugin Config
 
--Using OpenWRT/ImmortalWRT/LEDE source
+Personal Usage
 
-## Supported Model
 
-- Totolink X5000R (Openwrt/LEDE)
 
