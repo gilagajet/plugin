@@ -1,4 +1,5 @@
-        #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/helmi.config >> openwrt/.config
+        #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/bypass.config >> openwrt/.config
+        #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/extra.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/htop.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/ipv6.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/l2tp.config >> openwrt/.config
@@ -11,7 +12,7 @@
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/openvpn.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall-lite-slim.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall-lite.config >> openwrt/.config
-        curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall-xray.config >> openwrt/.config
+        #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall-xray.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/passwall2.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/ssr-lite.config>> openwrt/.config
@@ -20,4 +21,4 @@
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/stunnel.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/themes.config >> openwrt/.config
         #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/wireguard.config >> openwrt/.config
-        curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/zram.config >> openwrt/.config
+        #curl https://raw.githubusercontent.com/gilagajet/plugin/master/config/zram.config >> openwrt/.config
