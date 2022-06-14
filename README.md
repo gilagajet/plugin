@@ -1,4 +1,4 @@
-## WRT Plugin Config
+## Plugin Config
 
 Personal Usage
 
